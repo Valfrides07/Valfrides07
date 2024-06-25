@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sou estudante de Sistemas de Informação, com desejo em aprimorar minhas habilidades. Tenho focado os meus estudos em Python, C#, MySqL com interesse nas áreas de Dados e Backend. Estou em busca das mais recentes tecnologias e práticas de desenvolvimento. Durante meu curso, tenho a oportunidade de aprofundar conhecimentos e aplicar as melhores práticas em projetos práticos. Procuro oportunidades para expandir minhas habilidades técnicas, contribuir para projetos inovadores e crescer profissionalmente em um ambiente dinâmico.</h2>
+<h2 align="left">Sou estudante de Sistemas de Informação, com desejo em aprimorar minhas habilidades. compartilho um pouco de meus estudos em Python, C#, MySqL. Eu possuo interesse nas áreas de Dados e Backend. Estou em busca das mais recentes tecnologias e práticas de desenvolvimento. Durante meu curso, tenho a oportunidade de aprofundar conhecimentos e aplicar as melhores práticas em projetos práticos. Procuro oportunidades para expandir minhas habilidades técnicas, contribuir para projetos inovadores e crescer profissionalmente em um ambiente dinâmico.</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/valfrides-fernandes-279596236"_blank">
+  <a href="linkedin.com/in/valfrides-fernandes-279596236" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_01freitass/" target="_blank">
@@ -41,6 +41,9 @@
   </a>
   <a href="mailto:valfridesfreitas29@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/432512646164774912" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="twitch logo"  />
   </a>
 </div>
 
