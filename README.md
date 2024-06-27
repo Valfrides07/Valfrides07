@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2023<br>📚 I'm currently learning Python e MySql<br>🎯 Goals: A minha primeira vaga de estágio</p>
+<p align="center">✨ Criando bugs desde 2023<br>📚 Estou estudando sobre: Python e MySql<br>🎯 Objetivo: A minha primeira vaga de estágio</p>
 
 ###
 
