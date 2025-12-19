@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="left">Sou estudante de Sistemas de Informação, com desejo em aprimorar minhas habilidades. compartilho um pouco de meus estudos em Python, C#, MySqL. Eu possuo interesse nas áreas de Dados e Backend. Estou em busca das mais recentes tecnologias e práticas de desenvolvimento. Durante meu curso, tenho a oportunidade de aprofundar conhecimentos e aplicar as melhores práticas em projetos práticos. Procuro oportunidades para expandir minhas habilidades técnicas, contribuir para projetos inovadores e crescer profissionalmente em um ambiente dinâmico.</h2>
+<h2 align="left">I am an Information Systems student eager to improve my skills. I share some of my studies in JavaScript, React, Nextjs, Python, and MySQL. I am interested in both Front End and Backend development. I am looking for the latest technologies and development practices. During my course, I have the opportunity to deepen my knowledge and apply best practices in practical projects. I seek opportunities to expand my technical skills, contribute to innovative projects, and grow professionally in a dynamic environment.</h2>
 
 ###
 
-<p align="center">✨ Criando bugs desde 2023<br>📚 Atualmente estou estudando sobre: Python e MySql<br>🎯 Objetivo: A minha primeira vaga de estágio</p>
+<p align="center">✨ Creating bugs since 2023<br>🎯 My Goal: To contribute to innovative projects.</p><br>
 
 ###
 
-<h2 align="left">Atualmente tenho conhecimento em:</h2>
+<h2 align="left">I currently have knowledge in:</h2>
 
 ###
 
@@ -23,7 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" height="40" alt="js logo"  />
+  <img width="12" />
 </div>
 
 ###
