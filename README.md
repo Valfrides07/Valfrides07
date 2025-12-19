@@ -1,4 +1,4 @@
-<h1 align="center">Olá, prazer em recebe-lo(a) aqui!!</h1>
+<h1 align="center">Hello, it's a pleasure to have you here!!</h1>
 
 ###
 
