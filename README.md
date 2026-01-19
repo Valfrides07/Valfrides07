@@ -25,8 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg" height="40" alt="nextjs logo" style="background-color: #fff; border-radius: 4px;" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" style="background-color: white; padding: 2px; border-radius: 4px;" />
+
 
 
 </div>
