@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am an Information Systems student eager to improve my skills. I share some of my studies in JavaScript, React, Nextjs, Python, and MySQL. I am interested in both Front End and Backend development. I am looking for the latest technologies and development practices. During my course, I have the opportunity to deepen my knowledge and apply best practices in practical projects. I seek opportunities to expand my technical skills, contribute to innovative projects, and grow professionally in a dynamic environment.</h2>
+<h2 align="left">I am an Information Systems student eager to improve my skills. I share some of my studies in JavaScript, React, Nextjs and Python. I am interested in both Front End and Backend development. I am looking for the latest technologies and development practices. During my course, I have the opportunity to deepen my knowledge and apply best practices in practical projects. I seek opportunities to expand my technical skills, contribute to innovative projects, and grow professionally in a dynamic environment.</h2>
 
 ###
 
