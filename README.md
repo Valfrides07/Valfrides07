@@ -25,8 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="40" alt="nextjs logo" />
+  <table><tr><td bgcolor="white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" />
+</td></tr></table>
 <img width="12" />
+
 
 
 
