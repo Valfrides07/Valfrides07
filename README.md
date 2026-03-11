@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Creating bugs since 2023<br> My Goal: To contribute to innovative projects.</p><br>
+<p align="center">My Goal: To contribute to innovative projects.</p>
 
 ###
 
